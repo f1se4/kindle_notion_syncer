@@ -170,7 +170,7 @@ def create_page(title, author, paragraph_list):
             "database_id": database_ID
         },
         "properties": {
-            "Extracto": {
+            "Title": {
                 "title": [
                     {
                         "type": "text",
